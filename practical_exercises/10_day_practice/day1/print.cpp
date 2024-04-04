@@ -19,6 +19,5 @@ int main(int argc, char const *argv[]) {
       cout << '*';
     cout << endl;
   }
-  cout<<"hello c++";
   return 0;
 }

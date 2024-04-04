@@ -17,7 +17,8 @@ int main(int argc, char const *argv[]) {
     wei++;
   }
   cout << sum << endl;
-  
+
+
   return 0;
 }
 double power(double x, int n) {
